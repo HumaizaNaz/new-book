@@ -1,0 +1,15 @@
+# Node
+node_modules/
+.DS_Store
+*.env
+.env.local
+
+# Docusaurus
+.docusaurus/
+build/
+
+# IDEs
+.vscode/
+
+# Logs
+*.log
