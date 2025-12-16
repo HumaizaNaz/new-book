@@ -15,7 +15,7 @@ const RawFeatureList: (
 )[] = [
   {
     title: 'Master Physical AI',
-    videoFileName: '1.mp4',
+    videoFileName: 'digital-twin.mp4',
     description: (
       <>
         Build a strong foundation in Physical AI and embodied intelligence.
@@ -26,7 +26,7 @@ const RawFeatureList: (
   },
   {
     title: 'Simulate Humanoids in 3D Worlds',
-    videoFileName: '2.mp4',
+    videoFileName: 'vla.mp4',
     description: (
       <>
         Create high-fidelity digital twins using Gazebo and Unity.
@@ -37,7 +37,7 @@ const RawFeatureList: (
   },
   {
     title: 'Build Intelligent Robot Brains',
-    videoFileName: '3.mp4',
+    videoFileName: 'robot-brain.mp4',
     description: (
       <>
          Integrate advanced AI using NVIDIA Isaac, VSLAM, and navigation systems.
